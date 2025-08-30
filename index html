@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+   </head>
+<body>
+    <header>
+
+         <h2>DRAGON BALL</h2>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Product</a>
+            <a href="#">About</a>
+         </nav>
+<button class="log">Login</button> 
+    </header>
+ <main>
+<div class="info"> 
+    <h1>DRAGON SHOP</h1>
+    <p>Welcome to the Dragon Ball Galaxy Shop! We sell everything from clothes to toys inspired by your favorite Dragon Ball characters. Get ready to feel the power!</p>
+    <button>READ MORE</button>
+</div>
+<section class="pluses">
+    <article class="column">
+        <div class="number">
+        01
+        </div>
+        <div class="text">
+            <h5>BIG SELECTION </h5>
+            <p>We have many products for kids and adults—clothes, toys, posters, and more.
+
+            </p>
+        </div>
+    </article>
+     <article class="column">
+        <div class="number">
+        02
+        </div>
+        <div class="text">
+            <h5>HIGHT QUALITY </h5>
+            <p>Our items are officially licensed and made with strong, safe materials.
+            </p>
+        </div>
+    </article>
+     <article class="column">
+        <div class="number">
+        03
+        </div>
+        <div class="text">
+            <h5>FAST DELIVERY</h5>
+            <p>We ship your order quickly, so you get your Dragon Ball gear in just a few days. 
+            </p>
+        </div>
+    </article>
+</section>
+<section class="products">
+    <h1 class= "c_header">Популярні товари<br>
+ DRAGON BALL</h1>
+<div class="container">
+<div class="card">
+    <h4>Goku Action Figure</h4>
+    <img src="" alt="">
+    <p>A cool 15 cm figure of Goku in his Super Saiyan form. Strong and detailed!</p>
+    <button>Order</button>
+</div>
+<div class="card">
+    <h4>Dragon Ball Hoodie</h4>
+    <img src="" alt="">
+    <p>A cool 15 cm figure of Goku in his Super Saiyan form. Strong and detailed!</p>
+    <button>Order</button>
+</div>
+<div class="card">
+    <h4>Dragon Ball Keychain</h4>
+    <img src="" alt="">
+    <p>A cool 15 cm figure of Goku in his Super Saiyan form. Strong and detailed!</p>
+    <button>Order</button>
+</div>
+<div class="card">
+    <h4>Goku kaioken cup</h4>
+    <img src="" alt="">
+    <p>A cool 15 cm figure of Goku in his Super Saiyan form. Strong and detailed!</p>
+    <button>Order</button>
+</div>
+</div>
+</section>
+ </main>
+<footer>
+    <p>&copy; 2025</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
